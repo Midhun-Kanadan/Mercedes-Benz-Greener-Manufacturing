@@ -29,7 +29,3 @@ The primary objective is to reduce the testing time for cars on the bench, there
 
 - Follow the Jupyter notebook for step-by-step instructions on preprocessing, training, and prediction.
 
-## Contributions
-
-Contributions to improve the efficiency and accuracy of the algorithm are welcome. Please ensure to follow the contribution guidelines before submitting your pull requests.
-

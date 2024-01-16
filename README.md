@@ -27,9 +27,7 @@ The primary objective is to reduce the testing time for cars on the bench, there
 
 ## Instructions for Use
 
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed in the `requirements.txt` file.
-3. Follow the Jupyter notebook for step-by-step instructions on preprocessing, training, and prediction.
+- Follow the Jupyter notebook for step-by-step instructions on preprocessing, training, and prediction.
 
 ## Contributions
 
